@@ -48,8 +48,4 @@ I am a **Software Engineer** specializing in the intersection of **Autonomous Ag
 *   💼 **LinkedIn:** [Mohammad Aatif Quamre](https://www.linkedin.com)
 *   🐦 **Twitter/X:** [@Aatif_qmr](https://x.com)
 
-<br>
 
-<p align="center">
-  <sub>Built with ❤️ and managed via Antigravity Agentic Workflow.</sub>
-</p>
