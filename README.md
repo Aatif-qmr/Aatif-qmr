@@ -47,10 +47,10 @@ I am a **Software Engineer** specializing in the intersection of **Autonomous Ag
 
 <p align="left">
   <a href="https://github.com/Aatif-qmr">
-    <img src="https://github-readme-stats.vercel.app/api?username=Aatif-qmr&show_icons=true&theme=tokyonight&count_private=true" alt="Mohammad Aatif Quamre's GitHub stats" height="180" />
+    <img src="https://metrics.lecoq.io/Aatif-qmr" alt="Mohammad Aatif Quamre's GitHub Metrics" width="480" />
   </a>
   <a href="https://github.com/Aatif-qmr">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aatif-qmr&layout=compact&theme=tokyonight&langs_count=7" alt="Top Languages" height="180" />
+    <img src="https://streak-stats.demolab.com/?user=Aatif-qmr&theme=tokyonight" alt="GitHub Streak Stats" height="220" />
   </a>
 </p>
 
