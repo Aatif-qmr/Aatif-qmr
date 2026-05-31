@@ -43,6 +43,19 @@ I am a **Software Engineer** specializing in the intersection of **Autonomous Ag
 
 ---
 
+## 📊 GitHub Analytics
+
+<p align="left">
+  <a href="https://github.com/Aatif-qmr">
+    <img src="https://github-readme-stats.vercel.app/api?username=Aatif-qmr&show_icons=true&theme=tokyonight&count_private=true" alt="Mohammad Aatif Quamre's GitHub stats" height="180" />
+  </a>
+  <a href="https://github.com/Aatif-qmr">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aatif-qmr&layout=compact&theme=tokyonight&langs_count=7" alt="Top Languages" height="180" />
+  </a>
+</p>
+
+---
+
 ## 📫 Connect with Me
 *   📧 **Email:** [aatifqmr@gmail.com](mailto:aatifqmr@gmail.com)
 *   💼 **LinkedIn:** [Mohammad Aatif Quamre](https://www.linkedin.com)
